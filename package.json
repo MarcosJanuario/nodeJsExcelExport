@@ -1,0 +1,15 @@
+{
+  "name": "csvexport",
+  "version": "1.0.0",
+  "description": "test for exporting csv files in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "januario <januario@prime-research.com> (http://www.prime-research.com)",
+  "license": "MIT",
+  "dependencies": {
+    "node-excel-export": "^1.4.3"
+  }
+}

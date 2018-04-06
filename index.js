@@ -1,1 +1,1 @@
-console.log('hallo node!');
+require('./app/app');
